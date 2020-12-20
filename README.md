@@ -6,7 +6,7 @@
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO "https://raw.githubusercontent.com/hamidout/auto-rice/master/autorice.sh"
+curl -LO "https://raw.githubusercontent.com/hamidout/auto-rice/master/auto-rice.sh"
 sudo bash autorice.sh
 ```
 
